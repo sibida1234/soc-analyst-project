@@ -41,5 +41,3 @@ Welcome to my cybersecurity portfolio! This repository showcases my hands-on pro
 
 ---
 
-## 📁 Folder Structure (Work in Progress)
-
